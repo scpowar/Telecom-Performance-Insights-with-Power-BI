@@ -1,0 +1,3 @@
+## Project: Telecom Performance Insights with Power BI
+
+This project is part of a job simulation on Forage in collaboration with PwC Switzerland. It involves creating a comprehensive Power BI dashboard to analyze and visualize various aspects of telecom industry performance, including call center metrics and customer retention strategies. The objective is to provide actionable insights that help improve service quality and reduce customer churn.
