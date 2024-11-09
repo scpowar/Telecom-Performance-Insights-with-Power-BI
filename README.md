@@ -26,7 +26,7 @@ This project provides an in-depth analysis of customer churn and risk factors wi
 ## Tools Used
 
 - **Power BI**: For data visualization and dashboard design.
-- **Excel/Python/SQL** (optional to mention if preprocessing was done with these): For initial data cleaning and preparation.
+- **Excel**: For initial data cleaning and preparation.
 
 ## How to Use This Repository
 
