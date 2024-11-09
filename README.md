@@ -27,9 +27,7 @@ This project provides an in-depth analysis of customer churn and risk factors wi
 
 - **Power BI**: For data visualization and dashboard design.
 - **Excel**: For initial data cleaning and preparation.
+- **Coolors**: [Custom color theme creation](https://coolors.co/).
+- **Logo.com**: [Logo creation tool](https://logo.com/).
+- **Flaticon**: [Custom icons](https://www.flaticon.com/).
 
-## How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/scpowar/Telecom-Performance-Insights-with-Power-BI.git
