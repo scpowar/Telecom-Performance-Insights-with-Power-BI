@@ -19,7 +19,9 @@ This project provides an in-depth analysis of customer churn and risk factors wi
 ## Dashboard Screenshots
 
 1. **Customer Churn Overview**
+  ![Customer Churn Overview]([02]%20Customer%20Retention/Page%201.png)
 2. **Customer Risk Analysis**
+  ![Customer Risk Analysis]([02]%20Customer%20Retention/Page%202.png)
 
 ## Tools Used
 
